@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/buildatscale.tech",
     "slug": "buildatscale",
     "status": "up",
-    "uptime": "1.15%",
-    "uptimeDay": "1.15%",
-    "uptimeWeek": "1.15%",
-    "uptimeMonth": "1.15%",
-    "uptimeYear": "1.15%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1311,
     "timeDay": 1311,
     "timeWeek": 1311,
     "timeMonth": 1311,
     "timeYear": 1311,
-    "dailyMinutesDown": {
-      "2021-06-25": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
