@@ -4,18 +4,19 @@
     "url": "https://buildatscale.tech",
     "icon": "https://favicons.githubusercontent.com/buildatscale.tech",
     "slug": "buildatscale",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 1241,
     "timeDay": 1368,
-    "timeWeek": 1282,
+    "timeWeek": 1281,
     "timeMonth": 1241,
     "timeYear": 1241,
     "dailyMinutesDown": {
+      "2021-07-08": 0,
       "2021-07-01": 19
     }
   }
