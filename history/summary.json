@@ -4,7 +4,7 @@
     "url": "https://buildatscale.tech",
     "icon": "https://favicons.githubusercontent.com/buildatscale.tech",
     "slug": "buildatscale",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.92%",
@@ -16,6 +16,7 @@
     "timeMonth": 1863,
     "timeYear": 1566,
     "dailyMinutesDown": {
+      "2022-05-04": 0,
       "2022-04-29": 49,
       "2022-04-28": 61,
       "2022-04-23": 123,
