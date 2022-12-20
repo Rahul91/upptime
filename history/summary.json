@@ -4,7 +4,7 @@
     "url": "https://buildatscale.tech",
     "icon": "https://icons.duckduckgo.com/ip3/buildatscale.tech.ico",
     "slug": "buildatscale",
-    "status": "up",
+    "status": "down",
     "uptime": "95.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1648,
     "timeYear": 1738,
     "dailyMinutesDown": {
+      "2022-12-20": 0,
       "2022-12-02": 25,
       "2022-11-26": 24,
       "2022-11-16": 17,
