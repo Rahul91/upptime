@@ -6,17 +6,17 @@
     "slug": "buildatscale",
     "status": "up",
     "uptime": "94.36%",
-    "uptimeDay": "95.25%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "98.52%",
-    "uptimeYear": "80.44%",
-    "time": 1609,
-    "timeDay": 736,
-    "timeWeek": 707,
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "80.43%",
+    "time": 1608,
+    "timeDay": 761,
+    "timeWeek": 701,
     "timeMonth": 732,
-    "timeYear": 1567,
+    "timeYear": 1566,
     "dailyMinutesDown": {
-      "2024-12-12": 52,
+      "2024-12-12": 46,
       "2024-12-11": 17,
       "2024-12-08": 25,
       "2024-12-04": 16,
@@ -166,7 +166,8 @@
       "2024-02-02": 283,
       "2024-01-31": 32,
       "2024-01-29": 74,
-      "2024-01-28": 659
+      "2024-01-28": 659,
+      "2024-01-27": 51
     }
   }
 ]
