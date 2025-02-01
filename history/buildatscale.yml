@@ -1,7 +1,7 @@
 url: https://buildatscale.tech
-status: up
-code: 200
-responseTime: 682
-lastUpdated: 2025-02-01T23:15:09.202Z
+status: down
+code: 429
+responseTime: 537
+lastUpdated: 2025-02-01T23:31:10.459Z
 startTime: 2021-06-25T16:39:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
