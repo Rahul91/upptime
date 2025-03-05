@@ -4,18 +4,19 @@
     "url": "https://buildatscale.tech",
     "icon": "https://icons.duckduckgo.com/ip3/buildatscale.tech.ico",
     "slug": "buildatscale",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.63%",
     "uptimeMonth": "98.15%",
-    "uptimeYear": "99.53%",
-    "time": 1180,
-    "timeDay": 696,
-    "timeWeek": 756,
-    "timeMonth": 1044,
-    "timeYear": 1048,
+    "uptimeYear": "99.54%",
+    "time": 1179,
+    "timeDay": 669,
+    "timeWeek": 754,
+    "timeMonth": 1026,
+    "timeYear": 1046,
     "dailyMinutesDown": {
+      "2025-03-05": 0,
       "2025-03-03": 18,
       "2025-03-02": 19,
       "2025-02-28": 109,
@@ -78,7 +79,7 @@
       "2024-12-08": 25,
       "2024-12-04": 16,
       "2024-12-02": 117,
-      "2024-12-01": 45
+      "2024-12-01": 26
     }
   }
 ]
