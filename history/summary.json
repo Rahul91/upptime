@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/buildatscale.tech.ico",
     "slug": "buildatscale",
     "status": "down",
-    "uptime": "84.43%",
+    "uptime": "84.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "24.27%",
+    "uptimeYear": "24.02%",
     "time": 423,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 432,
+    "timeYear": 419,
     "dailyMinutesDown": {
-      "2026-05-15": 207,
+      "2026-05-16": 170,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -305,8 +306,7 @@
       "2025-05-23": 18,
       "2025-05-22": 16,
       "2025-05-19": 33,
-      "2025-05-18": 41,
-      "2025-05-16": 66
+      "2025-05-18": 41
     }
   }
 ]
